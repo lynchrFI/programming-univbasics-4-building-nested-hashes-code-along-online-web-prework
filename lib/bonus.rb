@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  hero[:status] 
+  hero[:status] = 
 
   
 
