@@ -26,7 +26,7 @@ def second_challenge
         :name => "Lady Capulet",
         :age => "50"
       
-      }}
+    
 
   
 end
