@@ -4,8 +4,12 @@ def second_challenge
       :patriarch => {
         :name => "Lord Montague",
         :age => "53"
+      },
+      :hero => {
+        :name => "Lady Montague",
+        :age => "54"
+      },
       
-      }, 
     :capulet => {
       :patriarch => {
         :name => "Lady Capulet",
